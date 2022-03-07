@@ -1,1 +1,1 @@
-Here we shall be learning redirection commands in linux systems
+Here we shall be learning shell commands in linux systems
