@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+counter=10
+for $counter [in $@]; do echo 'Best School'; done
